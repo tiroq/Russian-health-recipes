@@ -9,3 +9,7 @@
 
 ## Акупрессура
 [Акупрессура](acupressure/Main.md)
+
+## Травы
+
+[Травы](herbs/Main.md)
