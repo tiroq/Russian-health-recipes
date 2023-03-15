@@ -8,8 +8,8 @@
 | Ячмень | Тетрациклиновая мазь глазная | 
 
 ## Акупрессура
-[Акупрессура](acupressure/Main.md)
+[Акупрессура](acupressure/main.md)
 
 ## Травы
 
-[Травы](herbs/Main.md)
+[Травы](herbs/main.md)
